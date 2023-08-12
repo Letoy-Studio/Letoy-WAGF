@@ -1,0 +1,6 @@
+[submodule "Letoy-WAGF-BE"]
+	path = Letoy-WAGF-BE
+	url = git@github.com:Letoy-Studio/Letoy-WAGF-BE.git
+[submodule "Letoy-WAGF-Pre"]
+	path = Letoy-WAGF-Pre
+	url = git@github.com:Letoy-Studio/Letoy-WAGF-Pre.git
